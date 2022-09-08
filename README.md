@@ -5,7 +5,7 @@ Este é um repositorio voltado para os exercícios de laboratório da materia de
 
 ## 🧑‍💻 Seja um dos contribuidores
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+Quer fazer parte desse projeto? Clique [AQUI]((https://github.com/iuricode/readme-template/blob/main/repository](https://github.com/andrevrj/ExerciciosC214-L1)) e leia como contribuir.<br>
 
 As atividades estão abertas e qualquer um pode ver e contribuir com os códigos para auxiliar em diversos projetos.
 
