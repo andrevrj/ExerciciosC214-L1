@@ -15,3 +15,10 @@ As atividades estão abertas e qualquer um pode ver e contribuir com os códigos
  André Vieira Rocha Junior
 
 
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+* Envie para os seus amigos;
+* Contribua com o projeto;
+* etc.
