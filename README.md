@@ -1,22 +1,10 @@
-# README para os Exercicios de C2114-L1
+Descrição
+Projeto em JavaScript para atividade 8 e 9 de Engenharia de Software usando API de carro para adicionar paramentros e procurar no BD MongoDB
 
-Este é um repositorio voltado para os exercícios de laboratório da materia de Engenharia de Software, no qual, será inserido todos os projetos executados em sala de aula.
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)]([https://github.com/iuricode/readme-template/blob/main/repository](https://github.com/andrevrj/ExerciciosC214-L1))
+Início
+Para realizar uma cópia do projeto na sua máquina, segue o gitclone:
 
-## 🧑‍💻 Seja um dos contribuidores
+git clone: https://github.com/andrevrj/ExerciciosC214-L1/blob/main/Exercicio%208%20e%209
 
-As atividades estão abertas e qualquer um pode ver e contribuir com os códigos para auxiliar em diversos projetos.
-
-
-## 👨‍💻Autor
-
- André Vieira Rocha Junior
-
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Envie para os seus amigos;
-* Contribua com o projeto;
-* etc.
+🎓 Autores
+André Vieira Rocha Junior
